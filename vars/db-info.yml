@@ -1,0 +1,2 @@
+oracle_sid: devdb
+backup_dir: /backup/fast_recovery_area
