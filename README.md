@@ -5,6 +5,6 @@ Download the software binaries from Oracle website:
 * LINUX.X64_180000_db_home.zip
 
 Modify the variables in file located in vars directory, then run the following:<br/>
-## pre install task
+### pre install task
 ansible-playbook pre-install.yml
 
