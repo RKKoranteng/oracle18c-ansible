@@ -7,3 +7,6 @@ Download the software binaries from Oracle website:
 ### pre install task
 ansible-playbook pre-install.yml
 
+### pre install task
+ansible-playbook install.yml
+
