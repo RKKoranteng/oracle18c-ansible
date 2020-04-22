@@ -16,7 +16,7 @@
     tasks:
       - name: load all variables from variables directory
         include_vars:
-          dir: "{{ vars_dir }}"
+          dir: vars
           depth: 1
 
       - name: add hostname entries
