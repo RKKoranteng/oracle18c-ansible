@@ -1,7 +1,6 @@
 # AUTHOR: Richard Koranteng (richard@rkkoranteng.com)
 #
-# DESCRIPTION: Ansible playbook for performing Oracle 18c RDBMS pre-installation 
-#              on RHEL 7
+# DESCRIPTION: Ansible playbook for performing Oracle 18c EE RDBMS pre-installation on RHEL 7
 #
 # SUMMARY OF STEPS:
 # 1. declare variables
